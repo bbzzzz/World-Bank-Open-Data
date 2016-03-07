@@ -1,10 +1,6 @@
 # -*- coding: utf-8 -*-
 """
-Programming for analytics
-
-Bohan Zhang's Individual Project
-
-Python Part
+Retrieve data from World Bank API (wbdata) and stored into MySQL database
 """
 
 import wbdata

@@ -1,6 +1,6 @@
-#### Programming for Analytics
-#### Bohan Zhang's Individual Project
-#### R part
+#### Interact with Python
+#### Construct connection with MySQL and retrieve data
+#### Visulize data using ggplot
 
 library("RMySQL")
 library("ggplot2")

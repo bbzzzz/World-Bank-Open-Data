@@ -5,3 +5,9 @@ The following tools are used:
 - Python
 - MySQL
 - R
+
+Workflow:
+- Retrieve data from Worl Bank Open Data API using Python
+- Construct data base using MySQL in Python
+- Retrive data from data base in R
+- Make data visulization using ggplot
